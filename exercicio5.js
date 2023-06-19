@@ -5,7 +5,7 @@
  * mais de 5 caracteres. Utiliza a estrutura de repetição for of para percorrer o array.
  */
 
-let palavras = ["arroz", "feijão", "carne", "cerveja", "macarrão"];
+let palavras = ["arroz", "feijão", "carne", "cerveja", "macarrão","farofa"];
 
 for (let palavra of palavras) {
     if (palavra.length > 5) {
